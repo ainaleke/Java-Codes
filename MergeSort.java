@@ -1,4 +1,3 @@
-package HelloWorldPackage;
 
 public class MergeSort {
 	
